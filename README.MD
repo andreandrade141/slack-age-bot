@@ -2,7 +2,7 @@
 
 ## Description
 
-This bot calculates your age using your year of birth(yob) as a parameter.
+This bot calculates your age using your year of birth(YOB) as a parameter.
 
 ## Dependencies
 
